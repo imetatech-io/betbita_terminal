@@ -12,7 +12,7 @@ This guide outlines the exact workflow required to install, test, and calibrate 
 1. **Uninstall** the existing BetBita Terminal application.
 2. Open the File Explorer or press `Win + R` (Run).
 3. Type `%appdata%` and press Enter.
-4. Locate the folder named **`Betbita Lucky6 Terminal`** or **`terminal`** (under Roaming) and **delete** them entirely (also delete the **`presentation`** folder if the presentation screen was installed).
+4. Locate the folder named **`Betbita Lucky6 Terminal`** or **`terminal`** (under Roaming) and **delete** them entirely.
 5. Download and install the pre-release version from:
    🔗 [BetBita Terminal GitHub Releases](https://github.com/imetatech-io/betbita_terminal/releases)
 
